@@ -1,0 +1,1 @@
+# Automated-Categorizing-Banking-Transactions-AI-Model
